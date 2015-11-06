@@ -3,7 +3,9 @@ Un lugar donde encontraras recursos para aprender METEOR que te llevaran de nova
 
 Donde comenzar:
 
-https://www.meteor.com/tutorials/blaze/creating-an-app -- Este es el tutorial básico desarrollado por METEOR para introducir los conceptos detrás de esta plataforma.
+- Tutotail oficial de Meteor https://www.meteor.com/install
+
+- https://www.meteor.com/tutorials/blaze/creating-an-app -- Este es el tutorial básico desarrollado por METEOR para introducir los conceptos detrás de esta plataforma.
 
 Recursos:
 
